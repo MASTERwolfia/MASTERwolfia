@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+MR+WOLFIA+Github+profile."
+        src="https://readme-typing-svg.herokuapp.com?color=F70027&center=true&vCenter=true&multiline=true&width=500&height=70&lines=Welcome+MR+Wolfia+Github+Profile."
             alt="Typing SVG"
         />
     </a>
